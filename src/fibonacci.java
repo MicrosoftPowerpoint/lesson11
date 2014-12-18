@@ -13,7 +13,7 @@ public class fibonacci {
              System.out.println("Invalid number");
              return ;
         }
-        System.out.println("Fibonacci " + fib + " = " + fibonacci(fib));
+        System.out.println("Fibonacci of " + fib + " = " + fibonacci(fib));
     }
    
          static int fibonacci(int n){

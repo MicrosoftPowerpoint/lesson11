@@ -12,7 +12,7 @@ public class factorial {
              System.out.println("Invalid number");
              return ;
         }
-        System.out.println("Factorial " + fact + " = " + factorial(fact));
+        System.out.println("Factorial of " + fact + " = " + factorial(fact));
     }
     
        static int factorial (int n){
